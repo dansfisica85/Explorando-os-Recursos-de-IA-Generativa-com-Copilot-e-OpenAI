@@ -69,9 +69,15 @@ Origem: conversa com o Bing, 10/04/2024
 (4) github.com. https://github.com/aaley18/RollABall/tree/65b8610a1d2effc58f1220901e3e16e9ab6b1481/RollBallProject%2FAssets%2FScripts%2FPlayerController.cs.
 
 
+![_2bfeb61f-abfc-4112-a3f3-7c28db5bb37d](https://github.com/dansfisica85/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/118570287/d9ba6db2-e986-489f-8de0-cc2faffdc7f1)
 
-!(https://copilot.microsoft.com/images/create/a-fight-scene-based-on-a-tutorial-for-creating-a-f/1-6617449fc1a348d3bbbb01ef65ac6c5a?id=oMW%2bNGyERs7kspTFlNFPdg%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.q_9QTDElM3UhBGShQcx6&FORM=SYDBIC)
 
-https://copilot.microsoft.com/images/create/a-fight-scene-based-on-a-tutorial-for-creating-a-f/1-6617449fc1a348d3bbbb01ef65ac6c5a?id=ih%2b6GmQKaYla%2fyUbVPdKgQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.qYO0mTAteeB8GY5GgtGN&FORM=SYDBIC
+![_4b6e4181-34e7-468d-a6d0-0093f431634a](https://github.com/dansfisica85/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/118570287/21229944-399d-4159-858d-e4badbc2fd6c)
 
-https://copilot.microsoft.com/images/create/a-fight-scene-based-on-a-tutorial-for-creating-a-f/1-6617449fc1a348d3bbbb01ef65ac6c5a?id=Fb6sFQeULw8G0f7Tw5s15Q%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.8hlFAexl.qDMhd.l_awg&FORM=SYDBIC
+
+![_064076ca-e407-43c7-b2db-00a3801900d0](https://github.com/dansfisica85/Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/118570287/b8d22540-e640-4428-97c7-2c841500e851)
+
+
+![Uploading _d403fb1b-55f7-42c2-9abf-44c5a566a07c.jpeg…]()
+
+
