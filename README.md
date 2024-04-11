@@ -1,5 +1,5 @@
 # Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI
-Claro, posso te ajudar com isso! Aqui está um tutorial básico para criar um jogo de luta simples em C# usando o Unity. Infelizmente, não posso fornecer imagens ou ilustrações, mas tentarei ser o mais claro possível.
+Claro, posso te ajudar com isso! Aqui está um tutorial básico para criar um jogo de luta simples em C# usando o Unity. 
 
 1. **Instale o Unity**: Primeiro, você precisará do Unity, que é um poderoso mecanismo de jogo que suporta C#. Você pode baixá-lo do site oficial do Unity.
 
