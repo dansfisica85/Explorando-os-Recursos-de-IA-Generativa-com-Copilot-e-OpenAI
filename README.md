@@ -70,7 +70,7 @@ Origem: conversa com o Bing, 10/04/2024
 
 
 
-https://copilot.microsoft.com/images/create/a-fight-scene-based-on-a-tutorial-for-creating-a-f/1-6617449fc1a348d3bbbb01ef65ac6c5a?id=oMW%2bNGyERs7kspTFlNFPdg%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.q_9QTDElM3UhBGShQcx6&FORM=SYDBIC
+!(https://copilot.microsoft.com/images/create/a-fight-scene-based-on-a-tutorial-for-creating-a-f/1-6617449fc1a348d3bbbb01ef65ac6c5a?id=oMW%2bNGyERs7kspTFlNFPdg%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.q_9QTDElM3UhBGShQcx6&FORM=SYDBIC)
 
 https://copilot.microsoft.com/images/create/a-fight-scene-based-on-a-tutorial-for-creating-a-f/1-6617449fc1a348d3bbbb01ef65ac6c5a?id=ih%2b6GmQKaYla%2fyUbVPdKgQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.qYO0mTAteeB8GY5GgtGN&FORM=SYDBIC
 
